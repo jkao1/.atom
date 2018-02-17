@@ -11,5 +11,5 @@ cd ~/.atom
 
 Clone the settings repository using the command below:
 ```sh
-git clone git@github.com:jkao1/.atom.git Packages
+git clone git@github.com:jkao1/atomic-cow.git Packages
 ```
